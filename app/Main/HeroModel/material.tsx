@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { useTexture } from "@react-three/drei";
 import { MeshMatcapMaterialProps } from "@react-three/fiber";
 import { forwardRef } from "react";

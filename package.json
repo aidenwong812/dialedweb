@@ -32,10 +32,11 @@
     "react-fast-marquee": "^1.6.5",
     "react-spring": "^9.7.4",
     "sass": "^1.81.0",
-    "three": "^0.168.0"
+    "three": "^0.171.0"
   },
   "devDependencies": {
     "@types/node": "22.10.2",
+    "@types/three": "^0.171.0",
     "eslint": "^8",
     "eslint-config-next": "14.2.13",
     "typescript": "5.7.2"
